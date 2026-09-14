@@ -7,3 +7,5 @@ Además, los requerimientos en este tipo de proyectos cambian constantemente. As
 
 El sistema de ramas en Git permite a los desarrolladores trabajar individualmente en una tarea (Por ejemplo: una rama -> una tarea O una Rama -> un desarrollador). Básicamente, se puede pensar en Git como una aplicación de software pequeña que controla tu código base, si eres un desarrollador.
 Este archivo fue modificado desde GitHub.
+Este archivo fue modificado desde el repositorio local.
+
